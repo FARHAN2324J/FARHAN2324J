@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FARHAN2324J&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FARHAN2324J&show_icons=true&theme=dracula&title_color=ff0000&text_color=00ff00&icon_color=00ffff&bg_color=000000)
