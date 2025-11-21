@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="color:blue;">Hi there,</h1>
+# Hi there
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&title_color=ffff&text_color=2ecc71&icon_color=3498db&bg_color=30,EA6D35,185DAB,E7964E,673F50,C17A7E)
 
