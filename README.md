@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&theme=gruvbox&title_color=ffaa00&text_color=ffffff&bg_color=151515)
- [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:example@example.com)
+
