@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there,
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&title_color=ff5733&text_color=2ecc71&icon_color=3498db&bg_color=30,1abc9c,2ecc71,3498db)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&title_color=ff5733&text_color=2ecc71&icon_color=3498db&bg_color=30,EA6D35,185DAB,E7964E,673F50,C17A7E)
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
