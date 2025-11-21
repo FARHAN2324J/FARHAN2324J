@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi there,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARHAN2324J&layout=compact&bg_color=45,00c6ff,0072ff,00ff72,fff200)
 
 
