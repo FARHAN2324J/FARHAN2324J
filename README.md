@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
   
-<div align="center"># 📝 About me </div>
+<h1 align="center"> 📝 About me </h1>
 
 
 
