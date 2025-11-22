@@ -30,7 +30,7 @@ My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and 
 
 # 📝 About me 
 
-### I help businesses grow by building modern, user-friendly, and fully responsive websites. My focus is on performance, optimization, and fast loading speed, creating experiences that turn visitors into real customers.
+## I help businesses grow by building modern, user-friendly, and fully responsive websites. My focus is on performance, optimization, and fast loading speed, creating experiences that turn visitors into real customers.
 
 
 
