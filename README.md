@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 
 
+## About me
+I help businesses grow by building <mark>modern</mark>, <mark>user-friendly</mark>, and <mark>fully responsive</mark> websites.  
+My focus is on <mark>performance</mark>, <mark>optimization</mark>, and <mark>fast loading speed</mark>, creating experiences that <mark>turn visitors into real customers</mark>.
 
 
 
