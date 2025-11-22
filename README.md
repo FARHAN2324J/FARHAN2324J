@@ -27,9 +27,9 @@ someone who loves the world of programming and is always looking for a way to so
 
 
 
-I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and <mark>fully responsive</mark> websites.
+I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites.
 
-My focus is on <mark>performance</mark>, <mark>optimization</mark>, and <mark>fast loading speed</mark>,
+My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**,
 
 creating experiences that turn visitors into real customers.
 
