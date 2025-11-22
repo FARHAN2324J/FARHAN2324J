@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 
 
 
+<div align="center"> 
 #### I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites. 
 
 #### My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**, 
 
 #### creating experiences that turn visitors into real customers.
+</div>
 
 
 
