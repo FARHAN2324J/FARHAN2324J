@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Farhan!+👋🏻)](https://git.io/typing-svg)
-
 someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.
-
-
 
 
   
