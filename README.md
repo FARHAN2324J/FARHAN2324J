@@ -15,39 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 👋🏻 Hello there, I'm Farhan!
+# 👋🏻 Hello there, I'm Farhan!
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
+<!-- spacing -->
 # 📝 About me 
 
 
