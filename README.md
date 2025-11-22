@@ -20,8 +20,16 @@ Here are some ideas to get you started:
 
 
 ## About me
-I help businesses grow by building <mark>modern</mark>, <mark>user-friendly</mark>, and <mark>fully responsive</mark> websites.  
-My focus is on <mark>performance</mark>, <mark>optimization</mark>, and <mark>fast loading speed</mark>, creating experiences that <mark>turn visitors into real customers</mark>.
+I help businesses grow by building modern, user-friendly, and fully responsive websites.  
+My focus is on performance, optimization, and fast loading speed — creating experiences that turn visitors into real customers.
+
+![Modern](https://img.shields.io/badge/modern-000000?style=flat&labelColor=000000&color=brightgreen)
+![User‑friendly](https://img.shields.io/badge/user_friendly-000000?style=flat&labelColor=000000&color=blue)
+![Responsive](https://img.shields.io/badge/responsive-000000?style=flat&labelColor=000000&color=orange)
+![Performance](https://img.shields.io/badge/performance-000000?style=flat&labelColor=000000&color=yellow)
+![Optimization](https://img.shields.io/badge/optimization-000000?style=flat&labelColor=000000&color=purple)
+![Fast_loading](https://img.shields.io/badge/fast_loading-000000?style=flat&labelColor=000000&color=red)
+
 
 
 
