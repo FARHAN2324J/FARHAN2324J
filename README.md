@@ -19,18 +19,11 @@ Here are some ideas to get you started:
 
 
 
-## About me
-I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites.  
-My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**, creating experiences that **<mark>turn visitors into real customers</mark>**.
-
-
-
-
 
 
 # 📝 About me 
 
-## I help businesses grow by building modern, user-friendly, and fully responsive websites. My focus is on performance, optimization, and fast loading speed, creating experiences that turn visitors into real customers.
+## I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites. My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**, creating experiences that turn visitors into real customers.
 
 
 
@@ -44,12 +37,6 @@ My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-
-
-
 
 
 
