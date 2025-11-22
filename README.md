@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 #  👋🏻 Hello there, I'm Farhan!
 
 
-## 📝 About me
-
-I help businesses grow by building **modern**, **user-friendly**, and **fully responsive** websites.  
-
-My focus is on **performance**, **optimization**, and **fast loading speed**,  
-
-creating experiences that **turn visitors into real customers**.
 
 
 
@@ -32,7 +25,11 @@ creating experiences that **turn visitors into real customers**.
 
 
 
-### I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites. My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**, creating experiences that turn visitors into real customers.
+### I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites. 
+
+### My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**, 
+
+### creating experiences that turn visitors into real customers.
 
 
 
