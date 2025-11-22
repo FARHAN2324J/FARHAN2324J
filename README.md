@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there!
+# Hello there, I'm Farhan
+
+
+
+
+
+
+
+# About me 
+
+I help businesses grow by building modern, user-friendly, and fully responsive websites. My focus is on performance, optimization, and fast loading speed, creating experiences that turn visitors into real customers.
+
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
