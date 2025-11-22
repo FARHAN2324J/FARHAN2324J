@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> 👋🏻 Hello there, I'm Farhan!</h1>
+<h1 align="center" style="color:gray"> 👋🏻 Hello there, I'm Farhan!</h1>
 
 <h3 align="center">someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.</h3> 
 
