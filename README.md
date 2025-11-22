@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋🏻 Hello there, I'm Farhan!
-### someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.
+#### someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.
 
 
 
