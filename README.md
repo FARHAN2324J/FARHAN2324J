@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 
 <div align="center"> 
- <h1 align="center">I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites.</h1> 
+ <h3 align="center">I help businesses grow by building <mark>modern</mark>, <mark>user-friendly</mark>, and <mark>fully responsive</mark> websites.</h3> 
 
- <h1 align="center">My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**,</h1> 
+ <h3 align="center">My focus is on <mark>performance</mark>, <mark>optimization</mark>, and <mark>fast loading speed</mark>,</h3> 
 
- <h1 align="center">creating experiences that turn visitors into real customers.</h1> 
+ <h3 align="center">creating experiences that turn visitors into real customers.</h3> 
 </div>
 
 
