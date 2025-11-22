@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   
 ## 📝 About me 
 
-
-
-
 I help businesses grow by building **<mark>modern</mark>**, **<mark>user-friendly</mark>**, and **<mark>fully responsive</mark>** websites.
 
 My focus is on **<mark>performance</mark>**, **<mark>optimization</mark>**, and **<mark>fast loading speed</mark>**,
@@ -37,8 +34,6 @@ creating experiences that turn visitors into real customers.
 
 ## 🛠 My skills
 
-
-  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -55,7 +50,6 @@ creating experiences that turn visitors into real customers.
 
 
 ## 🌐 Connect with me 
-
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farhanfadayi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-fadaei/)
