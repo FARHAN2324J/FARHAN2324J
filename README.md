@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> 👋🏻 Hello there, I'm Farhan!</h3>
+## 👋🏻 Hello there, I'm Farhan!
 
 someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.
 
@@ -22,7 +22,7 @@ someone who loves the world of programming and is always looking for a way to so
 
 
   
-<h4> 📝 About me </h4>
+## 📝 About me 
 
 
 
@@ -38,7 +38,7 @@ creating experiences that turn visitors into real customers.
 
 
 
-<h4>🛠 My skills</h4>
+## 🛠 My skills
 
 
   
@@ -57,7 +57,7 @@ creating experiences that turn visitors into real customers.
 
 
 
-<h4>🌐 Connect with me </h4>
+## 🌐 Connect with me 
 
 
 
