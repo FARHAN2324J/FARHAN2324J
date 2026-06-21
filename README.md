@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Farhan!👋🏻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+Farhan Fadaei!👋🏻)](https://git.io/typing-svg)
 #### Someone who loves the world of programming and is always looking for a way to solve problems and constantly learn new technologies and improve skills.
 
 [Portfolio](https://farhan2324j.github.io/FarhanFadaei/)
